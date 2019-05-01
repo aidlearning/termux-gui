@@ -46,4 +46,4 @@ You can coding on your phone anywhere, anytime. Every inch of fragmentation have
 According to the test on the mainstream smartphone like Samsung, Aid Learning Framework only use 1% power consumption in a whole day (Standby)
 
 Download App:
-[!Aidlearning.net](http://www.aidlearning.net)
+![Aidlearning Framework](http://www.aidlearning.net)
